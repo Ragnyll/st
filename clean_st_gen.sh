@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rm config.h st st.o x.o
+rm -f config.h st st.o x.o

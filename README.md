@@ -1,7 +1,7 @@
 # ST
 st is great. this is my fork with patches.
 
-to clean:
+Build with
 ```
-./clean_st_gen.sh
+sudo make && sudo make install && ./clean_st_gen.sh
 ```
